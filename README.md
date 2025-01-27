@@ -29,6 +29,7 @@ Je suis un jeune étudiant passionné par l'informatique et le développement. J
 ### 📊 Stats
 
 ![AilfeLirik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AilfeLirik&show_icons=true&theme=gruvbox)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AilfeLirik&theme=vue-dark&hide_border=true)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
